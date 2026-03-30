@@ -1,4 +1,4 @@
-OffGrid
+                    OffGrid
 Product Blueprint & Development Guide
 The Offline AI Companion for Travelers & Trekkers
 Version 1.0
